@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "./predicates/AB-pair",
+  "./predicates/BA-pair",
+  "./scripts/AB-BA-match",
+]
